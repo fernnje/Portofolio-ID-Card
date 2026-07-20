@@ -30,6 +30,6 @@ Sebuah website portofolio interaktif yang memadukan simulasi ID Card virtual 3D 
 3. Buka peramban ke [http://localhost:3000](http://localhost:3000) untuk melihat aplikasi.
 
 ## 📞 Kontak Pengembang
-**Raga Jatsuma** — [fernnj@gmail.com](mailto:fernnj@gmail.com)  
+**LiFernzy** — [lifernzy@gmail.com](mailto:lifernzy@gmail.com)  
 WhatsApp: [0851 1314 7466](https://wa.me/6285113147466)
 
