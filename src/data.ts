@@ -1,7 +1,7 @@
 import { PortfolioData } from './types';
 
 export const portfolioData: PortfolioData = {
-  name: "Raga Jatsuma",
+  name: "Fernn",
   role: "Pranata Komputer / Pengawas Pemilu",
   company: "Bawaslu",
   location: "Banjarbaru, Kalimantan Selatan, Indonesia",
