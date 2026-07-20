@@ -212,7 +212,7 @@ export default function IDCard({ data, onOpenPortfolio, isOpening, theme = 'dark
                       ></div>
                     ))}
                   </div>
-                  <span className="text-[7px] font-mono text-slate-500 mt-1 tracking-widest text-center">RAGAJATSUMA_2026</span>
+                  <span className="text-[7px] font-mono text-slate-500 mt-1 tracking-widest text-center">FERNN_2026</span>
                 </div>
 
                 {/* QR Code */}
