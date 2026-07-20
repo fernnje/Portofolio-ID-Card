@@ -30,7 +30,6 @@ Sebuah website portofolio interaktif yang memadukan simulasi ID Card virtual 3D 
 3. Buka peramban ke [http://localhost:3000](http://localhost:3000) untuk melihat aplikasi.
 
 ## 📞 Kontak Pengembang
-**Raga Jatsuma** — [ragajatsuma@gmail.com](mailto:ragajatsuma@gmail.com)  
-WhatsApp: [0851 5683 8450](https://wa.me/6285156838450)  
-Website: [https://pantausaja.my.id](https://pantausaja.my.id)
+**Raga Jatsuma** — [fernnj@gmail.com](mailto:fernnj@gmail.com)  
+WhatsApp: [0851 1314 7466](https://wa.me/6285113147466)
 
