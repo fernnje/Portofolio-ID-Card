@@ -31,5 +31,5 @@ Sebuah website portofolio interaktif yang memadukan simulasi ID Card virtual 3D 
 
 ## 📞 Kontak Pengembang
 **LiFernzy** — [lifernzy@gmail.com](mailto:lifernzy@gmail.com)  
-WhatsApp: [0851 1314 7466](https://wa.me/6285113147466)
+WhatsApp: [0851-1314-7466](https://wa.me/6285113147466)
 
