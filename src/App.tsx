@@ -145,7 +145,7 @@ export default function App() {
         <footer className={`py-6 border-t text-center text-[10px] font-mono shrink-0 relative z-10 select-none transition-colors ${
           isLight ? 'border-slate-200 text-slate-500 bg-white' : 'border-slate-900/40 text-slate-600'
         }`}>
-          <p>© 2026 Raga Jatsuma. Semua hak cipta dilindungi.</p>
+          <p>© 2026 Fernn. Semua hak cipta dilindungi.</p>
         </footer>
       )}
     </div>
